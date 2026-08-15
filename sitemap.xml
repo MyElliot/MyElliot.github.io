@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A4-2-Conservation-of-biodiversity/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A4-1-Evolution-and-speciation/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A3-2-Classification-and-cladistics/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A3-1-Diversity-of-organisms/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A2-3-Viruses/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A2-2-Cell-structure/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A2-1-Origins-of-cells/</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://myelliot.cn/2023/01/19/Self-Introduction/</loc>
     
     <lastmod>2026-08-07</lastmod>
@@ -319,7 +382,7 @@
 
   <url>
     <loc>https://myelliot.cn/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
