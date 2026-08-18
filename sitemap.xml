@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://myelliot.cn/2026/08/18/IB%20biology/IB-biology-B2-1-Membrane-and-membrane-transport/</loc>
+    
+    <lastmod>2026-08-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/18/IB%20biology/IB-biology-B1-2-Proteins/</loc>
+    
+    <lastmod>2026-08-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/18/IB%20biology/IB-biology-B1-1-Carbohydrates-and-lipids/</loc>
+    
+    <lastmod>2026-08-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://myelliot.cn/2026/08/15/IB%20biology/IB-biology-A4-2-Conservation-of-biodiversity/</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -382,7 +409,7 @@
 
   <url>
     <loc>https://myelliot.cn/</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
