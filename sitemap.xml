@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://myelliot.cn/2026/08/19/IB%20biology/IB-biology-B2-3-Cell-specialization/</loc>
+    
+    <lastmod>2026-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myelliot.cn/2026/08/19/IB%20biology/IB-biology-B2-2-Organelles-and-comparmentalization/</loc>
+    
+    <lastmod>2026-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://myelliot.cn/2026/08/18/IB%20biology/IB-biology-B2-1-Membrane-and-membrane-transport/</loc>
     
     <lastmod>2026-08-18</lastmod>
@@ -409,7 +427,7 @@
 
   <url>
     <loc>https://myelliot.cn/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
